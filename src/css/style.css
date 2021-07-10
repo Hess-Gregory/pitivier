@@ -1121,6 +1121,9 @@ dl, ol, ul {
 .vegan-nav .black-logo {
 	display: none;
 }
+.vegan-nav .logo-brand {
+	min-height: 65px !important;
+}
 
 .navbar-area {
 	background-color: transparent;
@@ -1288,6 +1291,7 @@ dl, ol, ul {
 .main-banner-content p {
 	color: #ffffff;
 	margin: 0 0 0 0;
+	font-size: 25px;
 }
 
 .main-banner-content .banner-btn {
