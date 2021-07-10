@@ -47,7 +47,7 @@ function Navigation(props) {
 					</div>
 				</div>
 				<div class="vegan-nav">
-					<div class="container">
+					<div class="container-fluid">
 						<nav class="navbar navbar-expand-md navbar-light">
 							<Link class="navbar-brand" to="/">
 							<img

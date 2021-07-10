@@ -803,7 +803,11 @@ dl, ol, ul {
 	padding-right: 0;
 	padding-left: 0;
 }
-
+@media (min-width: 1200px){
+.vegan-nav .container-fluid {
+    width: 90% !important;
+}
+}
 .vegan-nav .navbar {
 	padding-right: 0;
 	padding-top: 0;
