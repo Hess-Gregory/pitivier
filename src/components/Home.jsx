@@ -19,7 +19,7 @@ function Home(props) {
                     <p>Traiteur & Organisation d'événements <br />De A à Z, tel est notre concept</p>
                     <div class="banner-btn">
                                         <Link class="default-btn-one" to="/">
-                                        Nos prix
+                                        Nos tarifs...
                                       </Link>
 
                                         <Link class="default-btn" to="/">
