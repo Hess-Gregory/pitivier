@@ -16,7 +16,7 @@ function Home(props) {
                 <div class="col-lg-8 offset-lg-2 col-md-12">
                   <div class="main-banner-content text-center">
                     <h1>Pitivier Events</h1>
-                    <p>Traiteur & Organisation d'événements <br />De A à Z, tel est notre concept</p>
+                    <p>Traiteur & Organisation d'événements <br />De A à Z, tel est notre concept ...</p>
                     <div class="banner-btn">
                                         <Link class="default-btn-one" to="/">
                                         Nos tarifs
