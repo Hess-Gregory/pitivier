@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+[https://pitivierevents.hess-gregory.be/](Prototype website) 
+[https://cmspitivier.hess-gregory.be/#/login](Prototype CMS) 
+
 ## Available Scripts
 
 In the project directory, you can run:
