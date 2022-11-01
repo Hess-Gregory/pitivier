@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-[Prototype website](https://pitivierevents.hess-gregory.be/) 
-[Prototype CMS](CMS https://cmspitivier.hess-gregory.be/#/login) 
+[Prototype website](https://pitivierevents.hess-gregory.be/) \
+[Prototype CMS](CMS https://cmspitivier.hess-gregory.be/#/login) \
 
 ## Available Scripts
 
